@@ -38,7 +38,7 @@ The analysis mainly focuses on understanding the dataset structure and performin
 The dataset used in this project was sourced from Kaggle:
 
 🔗 Dataset link:  
-[[https://storage.googleapis.com/kaggle-data-sets/3825046/7643334/bundle/archive.zip](https://drive.google.com/drive/folders/115I2Ha4h3wNtlwNPCX7p0AMlae8ZrGJL?usp=drive_link)](https://drive.google.com/file/d/1xuM_Co3lY-GphBYCszkLl_lnEBS_ypNM/view?usp=sharing)
+https://drive.google.com/file/d/1xuM_Co3lY-GphBYCszkLl_lnEBS_ypNM/view?usp=sharing
 
 ---
 
